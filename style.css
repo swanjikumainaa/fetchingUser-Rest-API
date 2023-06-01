@@ -1,0 +1,13 @@
+#users{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.people{
+    border: solid cornflowerblue;
+    margin: 1%;
+    margin-bottom: 4%;
+    border-radius: 5px;
+    text-align: center;
+}
