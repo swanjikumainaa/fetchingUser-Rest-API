@@ -1,0 +1,29 @@
+.form{
+    /* border: solid black; */
+    margin: 0 auto;
+    width: 30%;
+    padding: 10px;
+    text-align: center;   
+
+}
+
+.form > h1{
+    color: blue;
+}
+
+.form > input{
+   padding: 10px 16px;
+   width: 80%;
+   border: solid #e2e2ee;
+   border-radius: 5px;
+}
+
+.form > button{
+    background-color: blueviolet;
+    border: none;
+    outline: none;
+    color: rgb(183, 183, 201);
+    border-radius: 5px;
+    padding: 12px 16px;
+    font-size: 18px;
+}

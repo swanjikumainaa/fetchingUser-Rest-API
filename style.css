@@ -11,3 +11,20 @@
     border-radius: 5px;
     text-align: center;
 }
+
+.tittle{
+    text-align: center;
+    color: blueviolet;
+}
+
+.add-user{
+    border: none;
+    outline: none;
+    border-radius: 5px;
+    padding: 6px 12px;
+    background-color: blue;
+    color: white;
+    margin: 2% 4%;
+    cursor: pointer;
+
+}
